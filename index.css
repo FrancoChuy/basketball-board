@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    background: #0369A1;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+h3{
+    text-align: center;
+    color: white;
+    letter-spacing: 10px;
+    
+}
+
+
+#score-home{ 
+    text-align: center;
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+}
+
+#score-guest{
+    text-align: center;
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+}
+
+
+button{
+    color: #9AABD8;
+}
+
+.number1{
+    border: #9AABD8 solid 2px;
+    
+    
+}
+.number2{
+    border: #9AABD8 solid 2px;
+    
+    
+}
+.number3{
+    border: #9AABD8 solid 2px;
+    
+    
+}
